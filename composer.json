@@ -1,0 +1,17 @@
+{
+  "name": "emag/herogame",
+  "license": "proprietary",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "HeroGame\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4",
+    "phpunit/phpunit": "^8.5"
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
